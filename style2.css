@@ -2,9 +2,9 @@ body{
 	color: #546CA6;
 	background-color: #546CA6;
 	font-family: "Lucida Console";
-    margin-right: 50%;
+    margin-right: 10%;
 }
-
+H
 #container{
 	width: 100%;
 	height: 120px;
@@ -83,7 +83,7 @@ body{
 
 .button{
 	margin: 10px;
-	width: 240px;
+	width: 200px;
 	height: 40px;
 	background-color:  #274490;
 	font-size:20px;
@@ -134,7 +134,7 @@ ol{
     color: #0F1A36;
     margin-left: 5%;
     margin-bottom: 60px;
-    margin-right: 10%;
+    margin-right: 5%;
     width: 77%;
 	height: auto;
 	float: left;
